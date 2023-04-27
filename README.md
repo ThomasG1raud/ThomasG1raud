@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: Zin/Zin
+
+![ThomasG1raud's Github stats](https://github-readme-stats.vercel.app/api/?username=ThomasG1raud&count_private=true&theme=synthwave&showicons=true)
 <!--
 **ThomasG1raud/ThomasG1raud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
