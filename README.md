@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: Zin/Zin
+
+https://github-stats-alpha.vercel.app/api?username={ThomasG1raud}
 <!--
 **ThomasG1raud/ThomasG1raud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
